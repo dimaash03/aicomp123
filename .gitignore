@@ -1,1 +1,28 @@
-data/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.idea/
+
+# Temp
+/tmp_pdf*/
+
+# Logs
+*.log
+
+# Local scratch
+out.txt
+page-1.png
+
+# Nested repo
+/aicomp123/
